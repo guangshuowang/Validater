@@ -2,13 +2,3 @@ new file
 
 生成一个补丁
 modify one
-mobidy two
-modify three
-modify 
-modify
-
-tioao
-hello
-生成一个补丁
-a
-a
